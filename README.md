@@ -1,9 +1,9 @@
 # Voturi-Anonime_Tehnologii-Web
 CLIENT
--Deschidem proiectul in Visual Studio Code si in acesta deschidem un nou terminal.
--Folosim $cd client.
--Pentru a instala cele necesare pentru a rula proiectul, folosim:
--npm install
+Deschidem proiectul in Visual Studio Code si in acesta deschidem un nou terminal.
+Folosim $cd client.
+Pentru a instala cele necesare pentru a rula proiectul, folosim:
+npm install
 npm install express
 Pentru a rula proiectul:
 npm start
